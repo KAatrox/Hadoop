@@ -1,0 +1,15 @@
+组员详情：
+组长:王志辉
+组员:林明强
+     陈庆辉
+
+分工详情：
+王志辉：master端的配置
+陈庆辉：slave1端的配置
+林明强：slave2端的配置
+数据的获取与分析是三人一起谈论完成的。
+
+项目介绍：
+weather-DataAnalysis是数据分析源代码.
+weather-dataGet是数据获取源代码
+WEATHER.txt和WEATHER1.txt是获取以及进行分析的数据
